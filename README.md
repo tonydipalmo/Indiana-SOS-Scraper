@@ -1,4 +1,6 @@
-Scrapes the Indiana SOS for business information, this script uses 2Captcha to solve captcha requests - more information on that can be found here: https://pypi.org/project/2captcha-python/
+Scrapes the Indiana SOS for business information, in the future, we'd like to add additional states to be scrape.
+
+For captcha solving, this script uses 2Captcha - more information on that can be found here: https://pypi.org/project/2captcha-python/
 
 Make sure to update your Chrome Driver path, and 2Captcha API details in the .env file. Finally, install the dependencies required via the requirements.txt file.
 
